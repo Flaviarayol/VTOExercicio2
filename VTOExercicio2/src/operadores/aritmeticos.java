@@ -24,8 +24,8 @@ public class aritmeticos {
         char c1 = 'W';
         char c2 = 'I';
 
-        String st1 = "Fulano";
-        String st2 = "Cicrano";
+        String st1 = "Ola";
+        String st2 = "Hello World";
 
         boolean bo1 = true;
         boolean bo2 = false;
